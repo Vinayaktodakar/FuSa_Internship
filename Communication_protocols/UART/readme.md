@@ -49,7 +49,7 @@ UART (Universal Asynchronous Receiver Transmitter) is a serial communication pro
 ## 📊 Simulation
 
 Simulation performed using:
-- Xcelium / ModelSim (mention what you used)
+- Xcelium
 - Testbench verifies:
   - Start bit detection
   - Data transmission
@@ -60,7 +60,7 @@ Simulation performed using:
 
 ## 📷 Waveform Output
 
-![UART Simulation Waveform](UART.png)
+![UART Simulation Waveform](uart_output.png)
 
 ---
 
