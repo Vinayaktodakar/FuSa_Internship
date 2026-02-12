@@ -1,5 +1,5 @@
-# RTL Training — Assignment 3  
-## Blocking vs Non-Blocking — Answers
+# RTL Training
+## Blocking vs Non-Blocking
 
 ---
 
